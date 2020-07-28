@@ -2,15 +2,22 @@
     "image_banner":"https://raw.githubusercontent.com/kaimudu/firstuapp/master/periodic_banner.png",
     "banner_text":"Quality is delivered by adhering the standard operating procedures by our service partners at economical prices",
     "service_items1": [
-        "General Check Up",
-        "Semi synthetic oil change",
-        "oil filter change",
-        "Air Filter change"
+        "30 point checkUp",
+        "Battery Water Top Up",
+        "Front and Rear Brake Pads - Serviced",
+        "Wiper Fluid-Replaced",
+        "Diagnostic Scanning",
+        "Semi Synthetic Engine Oil - Replaced",
+        "Interior Vacuum & Cleaning",
+        "Spark Plug - Cleaned"
     ],
     "service_items2": [
-        "General Check Up",
-        "Semi synthetic oil change",
-        "oil filter change",
-        "Air Filter change"
+        "Oil Filter - Replaced",
+        "Air filter - Replaced",
+        "Coolant Top Up",
+        "Gear Oil Top Up",
+        "Brake & Clutch Oil Top Up",
+        "Full body wash",
+        "AC Filter - Cleaned"
     ]
 }
